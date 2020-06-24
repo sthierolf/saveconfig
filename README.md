@@ -8,6 +8,8 @@ saveconfig are two small Shell and TCL/Expect scripts which create a backup of c
 
 # TL;DR
 
+Copy the script to a folder like /srv/tftp/scripts and execute:
+
     root@linux-devel:/srv# /srv/tftp/scripts/saveconfig-backup.sh catalyst
 
 # Code and details
