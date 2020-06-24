@@ -8,6 +8,7 @@ saveconfig are two small Shell and TCL/Expect scripts which create a backup of c
 
 # TL;DR
 
+Create CSV file in the format: ipv4;hostname;type;username;password;enable
 Copy the script to a folder like /srv/tftp/scripts and execute:
 
     root@linux-devel:/srv# /srv/tftp/scripts/saveconfig-backup.sh catalyst
