@@ -15,4 +15,4 @@ Copy the script to a folder like /srv/tftp/scripts and execute:
 
 # Code and details
 
-[Saveconfig Backup scripts](https://www.thierolf.org/blog/2018/saveconfig-backup-scripts.html)
+[Saveconfig Backup scripts](https://www.thierolf.org/blog/2018/saveconfig-backup-scripts/)
