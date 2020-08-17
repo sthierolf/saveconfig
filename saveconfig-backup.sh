@@ -29,7 +29,7 @@
 ##
 ################################################################################
 set DEVICE [lindex $argv 0]
-set COPYSCP "scp://saveconfig:saveconfig@172.30.100.202//srv/tftp/config"
+set COPYSCP "scp://SCP_USER:SCP_PASS@IP_ADDR//srv/tftp/config"
 set LOCALTFTP "/srv/tftp/config"
 set INPUTPATH "/srv/tftp/scripts/saveconfig/"
 set TODAY [exec date "+%Y-%m-%d"]
